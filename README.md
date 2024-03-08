@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jlsgodev
+- 👋 Hi, I’m Jhon
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on open source projects
