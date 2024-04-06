@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jhon
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me jlsgo.dev@gmail.com
 
