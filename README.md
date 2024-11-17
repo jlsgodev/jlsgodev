@@ -1,8 +1,8 @@
 
 
-## Hi, I’m Jhon
-*** - 💞️ I’m looking to collaborate on open source projects ***
-*** 📫 How to reach me jlsgo.dev@gmail.com ***
+# Hi, I’m Jhon
+### - 💞️ I’m looking to collaborate on open source projects 
+### 📫 How to reach me jlsgo.dev@gmail.com 
 <div>
   <a href="https://github.com/jlsgodev">GitHub</a>
 </div>
