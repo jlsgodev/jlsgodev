@@ -1,14 +1,3 @@
-- 👋 Hi, I’m Jhon
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me jlsgo.dev@gmail.com
-
-<!---
-jlsgodev/jlsgodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 
 ## Hi, I’m Jhon
@@ -32,3 +21,11 @@ You can click the Preview link to take a look at your changes.
   <a href = "mailto:jhonnlsgoncalves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com//in/goncalvesjhon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+
+
+<!---
+jlsgodev/jlsgodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
